@@ -1,0 +1,38 @@
+.container{
+    margin: 2rem;
+    position: relative;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.card{
+    background-color: rgb(221, 138, 138);
+    margin: 2rem;
+    position: absolute;
+    width: 10rem;
+    transition: 1s;
+    top:2rem;
+    right: 0;
+      
+    
+}
+
+.cen{
+    transform: translateX(-300px);
+}
+
+.izq{
+    transform: translateX(-600px);
+
+}
+.acabado{
+    width: 100vw;
+    height: 20vw;
+    background-color: rgb(191, 227, 243);
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

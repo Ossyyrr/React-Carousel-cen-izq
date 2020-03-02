@@ -1,0 +1,25 @@
+[{
+    "id":1,
+    "nombre": "gato",
+    "dim": "gatito"
+},
+{
+    "id":2,
+    "nombre": "perro",
+    "dim": "perrito"
+},
+{
+    "id":5,
+    "nombre": "pez",
+    "dim": "pecito"
+},
+{
+    "id":4,
+    "nombre": "casuario",
+    "dim": "casuarito"
+},
+{
+    "id":3,
+    "nombre": "pajaro",
+    "dim": "pajarito"
+}]
